@@ -21,7 +21,7 @@ Here are some of the key projects I'm building and improving:
 - 📈 [**Happiness Score Analysis**](https://github.com/nikhil-771/Happiness-report-analysis)  
   Analysis of the World Happiness Report 2022 — exploring how GDP, social support, and health affect happiness across continents.
 
-- 🎥 [**Netflix IMDb Ratings Analysis**]((https://github.com/nikhil-771/Netflix-ratings-analysis))  
+- 🎥 [**Netflix IMDb Ratings Analysis**](https://github.com/nikhil-771/Netflix-ratings-analysis)  
   Deep dive into Netflix content trends, ratings, and genre distribution using visual analytics and pandas.
 
 ---
