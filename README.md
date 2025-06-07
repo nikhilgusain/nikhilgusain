@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nikhil Gusain
 
-**Aspiring Data Scientist | Python Developer | Passionate about Data, Problem Solving & Human Behavior**
+**Aspiring Data Scientist | Python Developer |**
 
 ---
 
@@ -8,9 +8,9 @@
 
 - 🎓 Computer Science Engineering student  
 - 📊 Focused on **Data Science**, **EDA**, **Python**, **Statistics**, and **ML fundamentals**  
-- 🔧 Currently working on real-world datasets like **Netflix Ratings**, **World Happiness Report**, etc.  
-- 🧠 Interested in Psychology, Ancient Civilizations, Quantum Physics, and Spirituality  
-- 💪 Balancing data science with fitness, discipline, and self-growth  
+- 🔧 Currently working on real-world datasets like **Netflix Ratings**  
+- 🧠 Interested in Psychology, Quantum Physics, and Spirituality  
+- 💪 Balancing data science with discipline, and self-growth  
 
 ---
 
@@ -18,14 +18,11 @@
 
 Here are some of the key projects I'm building and improving:
 
-- 📈 [**Happiness Score Analysis**](https://github.com/your-username/happiness-report-analysis)  
+- 📈 [**Happiness Score Analysis**](https://github.com/nikhil-771/Happiness-report-analysis)  
   Analysis of the World Happiness Report 2022 — exploring how GDP, social support, and health affect happiness across continents.
 
-- 🎥 [**Netflix IMDb Ratings Analysis**](https://github.com/your-username/netflix-imdb-analysis)  
+- 🎥 [**Netflix IMDb Ratings Analysis**]((https://github.com/nikhil-771/Netflix-ratings-analysis))  
   Deep dive into Netflix content trends, ratings, and genre distribution using visual analytics and pandas.
-
-- 📚 [**More Projects Coming**](https://github.com/your-username?tab=repositories)  
-  Working on ML models, portfolio dashboards, and time series in upcoming weeks.
 
 ---
 
@@ -40,20 +37,14 @@ Here are some of the key projects I'm building and improving:
 
 ### 📈 Currently Learning
 
+- Data Scince
 - Azure Fundamentals (for certification & cloud exposure)  
-- PostgreSQL joins & advanced queries  
-- Model building & evaluation  
-- Improving problem-solving through LeetCode + DSA
 
 ---
 
 ### 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) *(add your real link)*  
-- 📬 Email: your-email@example.com *(use professional one)*
+- 📬 Email: nikhilgusain771@gmail.com
 
 ---
-
-> “Discipline is choosing between what you want now and what you want most.”  
-> I’m chasing long-term growth — in knowledge, skill, and character.
 
