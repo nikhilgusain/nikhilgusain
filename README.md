@@ -7,7 +7,7 @@
 ### 🔍 About Me
 
 - 🎓 Computer Science Engineering student  
-- 📊 Focused on **Data Science**, **EDA**, **Python**, **Statistics**, and **ML fundamentals**  
+- 📊 Focused on **Data Science** and **DSA**
 - 🔧 Currently working on real-world datasets like **Netflix Ratings**  
 - 🧠 Interested in Psychology, Quantum Physics, and Spirituality  
 - 💪 Balancing data science with discipline, and self-growth  
