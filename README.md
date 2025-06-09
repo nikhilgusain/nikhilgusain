@@ -37,7 +37,8 @@ Here are some of the key projects I'm building and improving:
 
 ### 📈 Currently Learning
 
-- Data Scince
+- DSA
+- Data Science
 - Azure Fundamentals (for certification & cloud exposure)  
 
 ---
