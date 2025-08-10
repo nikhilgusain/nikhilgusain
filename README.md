@@ -8,7 +8,7 @@
 
 - 🎓 Computer Science Engineering student  
 - 📊 Focused on **Data Science** and **DSA**
-- 🔧 Currently working on real-world datasets like **Netflix Ratings**  
+- 🔧 Currently working on real-world datasets like **Netflix Content**  
 - 🧠 Interested in Psychology, Quantum Physics, and Spirituality  
 - 💪 Balancing data science with discipline, and self-growth  
 
@@ -38,8 +38,7 @@ Here are some of the key projects I'm building and improving:
 ### 📈 Currently Learning
 
 - DSA
-- Data Science
-- Azure Fundamentals (for certification & cloud exposure)  
+- Data Science 
 
 ---
 
