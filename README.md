@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nikhil Gusain
 
-**Aspiring Data Scientist | Python Developer |**
+**Aspiring Data Scientist**
 
 ---
 
@@ -8,7 +8,6 @@
 
 - 🎓 Computer Science Engineering student  
 - 📊 Focused on **Data Science** and **DSA**
-- 🔧 Currently working on real-world datasets like **Netflix Content**  
 - 🧠 Interested in Psychology, Quantum Physics, and Spirituality  
 - 💪 Balancing data science with discipline, and self-growth  
 
@@ -16,13 +15,13 @@
 
 ### 🚀 Projects
 
-Here are some of the key projects I'm building and improving:
+Here are some of the key projects I have build:
 
-- 📈 [**Happiness Score Analysis**](https://github.com/nikhil-771/Happiness-report-analysis)  
+- 📈 [**Happiness Score Analysis**](https://github.com/nikhilgusain/Happiness-report-analysis)  
   Analysis of the World Happiness Report 2022 — exploring how GDP, social support, and health affect happiness across continents.
 
-- 🎥 [**Netflix IMDb Ratings Analysis**](https://github.com/nikhil-771/Netflix-ratings-analysis)  
-  Deep dive into Netflix content trends, ratings, and genre distribution using visual analytics and pandas.
+- 🎥 [**Netflix Content Analysis**](https://github.com/nikhilgusain/Netflix-ratings-analysis)  
+  Deep dive into Netflix content trends, ratings, genre distribution, etc
 
 ---
 
@@ -38,7 +37,8 @@ Here are some of the key projects I'm building and improving:
 ### 📈 Currently Learning
 
 - DSA
-- Data Science 
+- Data Science
+- PostgreSQL
 
 ---
 
