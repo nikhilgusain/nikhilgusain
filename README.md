@@ -29,7 +29,7 @@ Here are some of the key projects I have build:
 
 - **Languages:** Python, Java, C++  
 - **Libraries:** pandas, NumPy, matplotlib, seaborn  
-- **Tools:** Jupyter Notebook, VS Code, Git, GitHub  
+- **Tools:** Jupyter Notebook, VS Code, Git, Excel 
 - **Databases:** PostgreSQL, MySQL
 
 ---
